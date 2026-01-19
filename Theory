@@ -1,0 +1,21 @@
+# Day 01 – Linear Regression
+
+## Definition
+Linear Regression is a supervised learning algorithm used to
+predict a continuous dependent variable based on input features.
+It provides a best fit line between the one independent variable and dependent variable.
+
+## Formula
+y = mx + c
+where m=slope, c=intercept
+
+## Use Cases
+- Salary prediction
+- House price prediction
+- Sales forecasting
+
+## Libraries Used
+- Pandas
+- NumPy
+- scikit-learn
+Donw it with both sklearn and with mathematical part.
