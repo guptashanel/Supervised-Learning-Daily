@@ -1,6 +1,6 @@
 Theoratical concepts regarding the Random Forests.
 
-Introduction
+Introduction(About random forests deeply)
 
 Key Concepts
 
@@ -10,7 +10,9 @@ How Random Forest Works
 
 Bagging and Ensemble Learning
 
-Hyperparameters of Random Forest
+Hyperparameters of Random Forest(n_estimators,max_depth,min_sample_split,min_sample_leaf,max_features)
 
 Advantages and Disadvantages
+
+Applications
 
