@@ -1,0 +1,27 @@
+Ridge Regression
+
+L2 Regularization
+
+Regularization Term (λ / alpha)
+
+Cost Function with L2 Penalty
+
+Weight Shrinkage
+
+Bias–Variance Tradeoff
+
+Overfitting Reduction
+
+Multicollinearity Handling
+
+Effect of Lambda (α)
+
+Ridge vs Linear Regression
+
+Ridge vs Lasso
+
+Feature Scaling Requirement
+
+Hyperparameter Tuning
+
+Ridge Regression using sklearn
